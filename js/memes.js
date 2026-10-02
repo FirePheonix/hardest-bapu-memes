@@ -12,4 +12,7 @@ export const MEMES = [
   { src: "assets/1.mp4", caption: "Bapu after one chai", credit: "certified classic" },
   { src: "assets/2.mp4", caption: "Ahimsa, but make it loud", credit: "volume: spiritual" },
   { src: "assets/3.mp4", caption: "This still won't get us banned", credit: "famous last words" },
+  { src: "assets/4.mp4", caption: "I Miss You Gandhi Ji", credit: "himnebih"},
+  { src: "assets/5.mp4", caption: "Fambruh FT. First Speech", credit: "vittyvipul"},
+  { src: "assets/6.mp4", caption: "Gandhi Ji OP,Summon gandhi ji for help", credit: "zalzala.pathan"}
 ];
